@@ -1,6 +1,6 @@
 {
     "name": "stirreg/ddd-symfony-skeleton",
-    "description": "A skeleton project that provides a basic architecture and packages, enabling you to use DDD straight away.",
+    "description": "A skeleton project that provides a basic architecture and packages, enabling you to use DDD with symfony straight away.",
     "type": "project",
     "license": "proprietary",
     "require": {
