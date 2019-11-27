@@ -59,11 +59,7 @@
     },
     "extra": {
         "symfony": {
-            "root-dir": "src/Infrastructure/Symfony",
-            "bin-dir": "src/Infrastructure/Symfony/bin",
-            "config-dir": "src/Infrastructure/Symfony/config",
             "src-dir": "src/Infrastructure/Symfony/src",
-            "var-dir": "src/Infrastructure/Symfony/var",
             "public-dir": "src/Infrastructure/Symfony/public",
             "allow-contrib": false,
             "require": "5.0.*"
