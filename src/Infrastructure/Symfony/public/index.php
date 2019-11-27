@@ -1,10 +1,10 @@
 <?php
 
-use Infrastructure\Symfony\Kernel; // Altered from default because of different symfony namespace.
+use Infrastructure\Symfony\Kernel;
 use Symfony\Component\ErrorHandler\Debug;
 use Symfony\Component\HttpFoundation\Request;
 
-require dirname(__DIR__).'/config/bootstrap.php';
+require dirname(__DIR__, 4).'/config/bootstrap.php';
 
 if ($_SERVER['APP_DEBUG']) {
     umask(0000);
