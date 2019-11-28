@@ -6,5 +6,5 @@
 ## Usage
 
 ``` bash
-$ composer create-project stirreg/ddd-symfony-skeleton --dev
+$ composer create-project stirreg/ddd-symfony-skeleton
 ```
