@@ -107,6 +107,12 @@
     "psr/log": {
         "version": "1.1.2"
     },
+    "ramsey/collection": {
+        "version": "1.0.0"
+    },
+    "ramsey/uuid": {
+        "version": "3.9.1"
+    },
     "roave/security-advisories": {
         "version": "dev-master"
     },
