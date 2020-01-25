@@ -14,4 +14,10 @@
 $ composer create-project stirreg/ddd-symfony-skeleton
 ```
 
-Replace ddd-symfony-skeleton with project name in docker-compose.yml
+Update docker-compose.yml with project relevant configurations
+
+``` bash
+$ docker-compose up -d
+```
+
+Start adding whatever you need; domain objects, endpoints, tests. Have fun!
